@@ -9,10 +9,10 @@
 </p>
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
-- 👨🏻‍💻 &nbsp; I started coding when I was 17. I wanted to build apps, systems and platforms that would help and make people's lives easier and from the first contact with the source code I knew that's what I wanted to do in my life.
-- 💼 &nbsp; Currently I have some projects in development, and a practice of frantic studies.
+- 👨🏻‍💻 &nbsp; I started coding when I was 17. I wanted to build apps, systems and platforms that would help and make people's lives easier and from the first contact with the source code I knew that's what I wanted to do in my life. <br>
+- 💼 &nbsp; Currently I have some projects in development, and a practice of frantic studies.<br>
 - ✍️ &nbsp; I love studying technology, information security and android development.
-- 
+
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <h3>💻 &nbsp;Front-end:</h3>
 
