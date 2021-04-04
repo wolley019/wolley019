@@ -2,7 +2,7 @@
 <p align="center">
 <a href="https://instagram.com/rodrigo019barbosa"><img src="https://img.shields.io/badge/-@rodrigo019barbosa_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/rodrigo-barbosa-005266163"><img src="https://img.shields.io/badge/-Rodrigo%20Barbosa-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:felipemota.rocha@gmail.com"><img src="https://img.shields.io/badge/-felipemota.rocha@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:usuario019alfa@gmail.com"><img src="https://img.shields.io/badge/-usuario019alfa@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 </p>
 
@@ -34,7 +34,3 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=E535AB)
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
-
-<h2>🚀 &nbsp;A Little More About My Profile</h2>
-
-[![Rodrigo Barbosa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wolley019)](https://github.com/anuraghazra/github-readme-stats)
