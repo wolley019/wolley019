@@ -22,10 +22,9 @@
 ![React Native](https://img.shields.io/badge/-React Native-333333?style=flat&logo=react)
 ![React](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
-![Gatsby](https://img.shields.io/badge/-Gatsby-333333?style=flat&logo=gatsby)
-![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=E535AB)
-![Android](https://img.shields.io/badge/-ANDROID-333333?style=flat&logo=ANDROID)
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+![Flutter](https://img.shields.io/badge/-flutter-333333?style=flat&logo=flutter)
+![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=Kotlin)
+![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=ANDROID)
 
 
 <h3>⚙️ &nbsp;Back-end and database:</h3>
