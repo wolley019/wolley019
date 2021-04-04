@@ -1,4 +1,4 @@
-<h1>👋 &nbsp;### Hi there 👋 I'm Rodrigo, a passionate android developer.</h1>
+<h1>&nbsp;### Hi there 👋 I'm Rodrigo, a passionate android developer.</h1>
 <p align="center">
 <a href="https://instagram.com/dicasparadevs"><img src="https://img.shields.io/badge/-@dicasparadevs_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://dicasparadevs.com.br"><img src="https://img.shields.io/badge/-dicasparadevs.com.br-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
@@ -36,3 +36,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=E535AB)
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
+
+<h2>🚀 &nbsp;A Little More About My Profile</h2>
+
+[![Felipe Rocha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipemotarocha)](https://github.com/anuraghazra/github-readme-stats)
