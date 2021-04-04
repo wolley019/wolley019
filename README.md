@@ -24,8 +24,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>  
-![SQLite](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![MySQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=mysql&logoColor=E535AB)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
 
 ![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=ANDROID)
