@@ -1,4 +1,4 @@
-<h1>&nbsp;### Hi there 👋 I'm Rodrigo, a passionate android developer.</h1>
+<h1>&nbsp;### Hi 👋 I'm Rodrigo, a passionate about Mobile development.</h1>
 <p align="center">
 <a href="https://instagram.com/rodrigo019barbosa"><img src="https://img.shields.io/badge/-@rodrigo019barbosa_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/rodrigo-barbosa-005266163"><img src="https://img.shields.io/badge/-Rodrigo%20Barbosa-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
@@ -29,4 +29,10 @@
 
 ![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=ANDROID)
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/kotlin/kotlin.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>  
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=material-palenight" />
+</a>
