@@ -1,21 +1,33 @@
-### Hi there 👋,  I'm Rodrigo, a passionate about Mobile development
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+<h1>&nbsp;### Hi 👋 I'm Rodrigo, a passionate about Mobile development.</h1>
+<p align="center">
+<a href="https://instagram.com/rodrigo019barbosa"><img src="https://img.shields.io/badge/-@rodrigo019barbosa_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/rodrigo-barbosa-005266163"><img src="https://img.shields.io/badge/-Rodrigo%20Barbosa-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:usuario019alfa@gmail.com"><img src="https://img.shields.io/badge/-usuario019alfa@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
-I made this project for fun and to learning, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+</p>
 
-Skills: JS / HTML / CSS / Node.JS / SQL / MySQL / SQLite / PostgreSQL / Android / kotlin / Flutter
+<h2> 👨🏻‍💻 &nbsp;About Me </h2>
+- 👨🏻‍💻 &nbsp; I started coding when I was 17. I wanted to build apps, systems and platforms that would help and make people's lives easier and from the first contact with the source code I knew that's what I wanted to do in my life. <br>
+- 💼 &nbsp; Currently I have some projects in development, and a practice of frantic studies.<br>
+- ✍️ &nbsp; I love studying technology, information security and android development.
 
-- 🔭 I’m currently working on this page. 
+<h2> 🛠 &nbsp;Tech Stack</h2>
 
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/wolley019)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rodrigo-barbosa-005266163/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/rodrigo019barbosa/)  
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+![Python](https://img.shields.io/badge/-Python-333333?style=flat)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=wolley019)](https://github.com/ryo-ma/github-profile-trophy)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wolley019)](https://github.com/anuraghazra/github-readme-stats)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>  
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=wolley019&show_icons=true)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=wolley019)  
+![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=ANDROID)
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/kotlin/kotlin.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 
