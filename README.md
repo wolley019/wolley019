@@ -1,6 +1,6 @@
 <h1>&nbsp;### Hi 👋 I'm Rodrigo, a passionate about development.</h1>
 <p align="center">
-<a href="https://instagram.com/rodrigo019barbosa"><img src="https://img.shields.io/badge/-@rodrigo019barbosa_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://instagram.com/notfoundrodrigo"><img src="https://img.shields.io/badge/-@rodrigo019barbosa_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/rodrigo-barbosa-005266163"><img src="https://img.shields.io/badge/-Rodrigo%20Barbosa-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:usuario019alfa@gmail.com"><img src="https://img.shields.io/badge/-usuario019alfa@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
@@ -26,10 +26,6 @@
 ![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=ANDROID)
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/kotlin/kotlin.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/wolley019)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rodrigo-barbosa-005266163/)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/rodrigo019barbosa/)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=wolley019)](https://github.com/ryo-ma/github-profile-trophy)
 
