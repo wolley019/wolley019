@@ -25,8 +25,8 @@
 <!-- This is a comment -->![image](https://github.com/user-attachments/assets/6faf8a3a-e2dd-414c-ab7a-4e0c026b41a6)
 <!-- This is a comment -->![image](https://github.com/user-attachments/assets/b5081934-b556-4093-b18f-edca1e4be59f)
 <!-- This is a comment -->![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>  
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+<!-- This is a comment --><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>  
+<!-- This is a comment -->![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 <!-- This is a comment -->![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
 
 <!-- This is a comment -->![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=ANDROID)
@@ -34,7 +34,7 @@
 <!-- This is a comment --><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/wolley019)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rodrigo-barbosa-005266163/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/rodrigo019barbosa/)  
+<!-- This is a comment -->[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/wolley019)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rodrigo-barbosa-005266163/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/rodrigo019barbosa/)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=wolley019)](https://github.com/ryo-ma/github-profile-trophy)
 
